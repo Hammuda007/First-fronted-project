@@ -1,0 +1,13 @@
+body
+    {
+    Background-color: rgb(244, 246, 250) ;
+    color: rgb(17, 17, 28)
+}
+#hid {
+      background-color: rgb(165, 127, 255);
+      padding: 30px 100px 100px 24px;
+      margin: 100px;
+      border: solid black;
+      border-bottom: 10px solid black;
+      border-radius: 93px;
+}
