@@ -11,7 +11,7 @@ body
       border-bottom: 10px solid black;
       border-radius: 93px;
 }
- .youtube {
+.youtube {
     background: red;
     padding: 20px 80px;
     margin: 100px;
@@ -21,4 +21,15 @@ body
     color: white;
     text-decoration: none;
 }
+ 
+ .cards{
+    width: 400px;
+    height: 290px;
+    text-align: center;
+ }
+
+ .my image{
+    width: 250px;
+    height: 400px;
+
  }
