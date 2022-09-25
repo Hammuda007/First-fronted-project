@@ -28,7 +28,7 @@ body
     text-align: center;
  }
 .cards :hover{
-    border: 1px solid red ;
+    border: 1px solid rgb(25, 0, 255) ;
 }
  .my image{
     width: 250px;
