@@ -23,11 +23,13 @@ body
 }
  
  .cards{
-    width: 400px;
-    height: 290px;
+    width: 600px;
+    height: 400px;
     text-align: center;
  }
-
+.cards :hover{
+    border: 1px solid red ;
+}
  .my image{
     width: 250px;
     height: 400px;
